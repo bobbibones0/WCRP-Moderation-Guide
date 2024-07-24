@@ -1,5 +1,5 @@
 ## When
-When a player is being moderated and they run away, it is evasion. If they leave it is LTAP -> https://discord.com/channels/1248149425482895390/1250891707113803877
+When a player is being moderated and they run away, it is evasion. If they leave it is LTAP -> https://github.com/bobbibones0/WCRP-Moderation-Guide/blob/main/LTAP.md
 
 ## Catching
 * 1. You must have the username
